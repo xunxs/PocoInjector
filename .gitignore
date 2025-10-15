@@ -1,0 +1,43 @@
+# Build outputs
+**/bin/
+**/obj/
+
+# Visual Studio / Rider
+.vs/
+.vscode/
+*.user
+*.suo
+*.userprefs
+*.csproj.user
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Logs / temp
+*.log
+*.tmp
+temp/
+*.DS_Store
+Thumbs.db
+
+# Archives
+*.zip
+*.7z
+*.rar
+
+# Local env
+.env
+.env.*
+
+# Project generated data
+page_*.json
+buttons*.json
+all_objects.json
+button_mapping*.json
+button_mapping*.txt
+pages_index.json
+
